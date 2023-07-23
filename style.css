@@ -46,10 +46,10 @@ header a :hover{
     border-radius: 25px;
     cursor: pointer;
     transition: 0.5s;
-    margin: 5px;
+    margin: 0px 5px;
 }
 .frontpage img:hover{
-    margin: 15px;
+    margin: 0px 15px;
     transition: 0.6s;
 
 }
